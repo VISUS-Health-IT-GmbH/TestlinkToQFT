@@ -1,0 +1,4 @@
+{
+    "TL_API_URL": "THIS CONTAINS THE URL OF THE TESTLINK XML V1 API (http(s)://{IP}/testlink/lib/api/xmlrpc/v1/xmlrpc.php)",
+    "TL_BASE_URL": "THIS IS JUST THE LINK TO THE TESTLINK INSTANCE (http(s)://{IP}/testlink)"
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+bin/
+build/
+dist/
+structure.txt
+*.qft
+*.spec
+devkey
+log/Backend.log
+.idea

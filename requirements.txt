@@ -1,0 +1,4 @@
+TestLink-API-Python-client~=0.8.1
+yattag~=1.14.0
+CherryPy~=18.6.0
+requests~=2.25.1
